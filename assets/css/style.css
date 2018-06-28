@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(255, 247, 199);
+    font-family: 'Verdana', sans-serif;
+}
+
+.jumbotron {
+   background-color: rgb(240, 113, 113);
+   min-width: 100%;
+    
+}
+
+#jumbotron-header {
+    height: inherit;
+    font-size: 75px;
+    font-weight: bold;
+    color: black;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: rgb(22, 98, 185);
+}
+
+.panel-primary {
+    background-color: rgb(240, 113, 113);
+}
+
+tr {
+    background-color: #fff;
+}
